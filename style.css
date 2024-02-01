@@ -1,0 +1,14 @@
+h1{
+    color: brown;
+    background-color: blueviolet;
+}
+body{
+    color: indianred;
+    background-image: url(IMG_20200129_202208.JPG);
+    background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+p{
+    color: chocolate;
+}
